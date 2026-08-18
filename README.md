@@ -33,7 +33,7 @@ cp SKILL.md ~/.dsh/skills/memory-handover/
 
 ## 使用
 
-- **点按钮**：输入框下方「技能」→ 选 `memory-handover`；或直接输入 `/memory-handover`。
+- **点按钮**：输入框下方「技能」→ 选 `memory-handover`；或直接输入 `/memory-handover`。（前提：已安装 `dsh-skill-manager` 插件，否则 GUI 上没有「技能」按钮）
 - **更省事**：会话里直接说「**保存记忆**」「**交接一下**」「**接续一下**」，模型会按 `whenToUse` 自动触发。
 
 ## 交接文件放哪
